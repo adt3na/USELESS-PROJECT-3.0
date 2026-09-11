@@ -2,7 +2,7 @@
 
 
 
-# [Project Name] 🎯
+# [Vadakkunokki AI] 🎯
 
 
 ## Basic Details
