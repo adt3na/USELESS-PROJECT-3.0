@@ -6,23 +6,23 @@
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: [Pixel Rift]
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: [Anu Ann Biju] - [Toc H institute of science and technology]
+- Member 2: [Adheena Sajeev] - [Toc H institute of science and technology]
+
 
 ### Project Description
-[2-3 lines about what your project does]
+[A fun, unconventional AI chatbot that turns ordinary conversations into interactive experiences through playful interrogation, ragebait responses, and mini-games before revealing its answer. Designed with a cool pixel-art interface, chat history, and dark/light modes, the project focuses on entertainment rather than productivity.
+]
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+[Conventional AI chatbots are designed to provide quick, direct answers, making interactions repetitive and purely task-oriented. There is a lack of AI platforms focused on fun, playful, and unpredictable interactions rather than productivity.]
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
-
+[The project addresses the boredom and repetitive experience of using conventional AI chatbots by turning simple question-answering into a playful, interactive experience.]
 ## Technical Details
 ### Technologies/Components Used
 For Software:
