@@ -15,14 +15,13 @@
 
 
 ### Project Description
-[A fun, unconventional AI chatbot that turns ordinary conversations into interactive experiences through playful interrogation, ragebait responses, and mini-games before revealing its answer. Designed with a cool pixel-art interface, chat history, and dark/light modes, the project focuses on entertainment rather than productivity.
-]
+[An Ai chat bot that will either rage bait you or asks you complete a mini game before answering your question.]
 
 ### The Problem (that doesn't exist)
-[Conventional AI chatbots are designed to provide quick, direct answers, making interactions repetitive and purely task-oriented. There is a lack of AI platforms focused on fun, playful, and unpredictable interactions rather than productivity.]
+[why can't ai chat bots be more entertaining and we think people need a change from the conventional ai chatbots.]
 
 ### The Solution (that nobody asked for)
-[The project addresses the boredom and repetitive experience of using conventional AI chatbots by turning simple question-answering into a playful, interactive experience.]
+[For change from the exhausting patterns and conventionality, we made vadakkunoki AI, vadakkunoki is unpredictable, chaotic and wise.]
 ## Technical Details
 ### Technologies/Components Used
 For Software:
@@ -31,10 +30,6 @@ For Software:
 - [Libraries used]
 - [Tools used]
 
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
 
 ### Implementation
 For Software:
@@ -61,24 +56,6 @@ For Software:
 ![Workflow](Add your workflow/architecture diagram here)
 *Add caption explaining your workflow*
 
-For Hardware:
-
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
-
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
-
-# Build Photos
-![Components](Add photo of your components here)
-*List out all components shown*
-
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
 
 ### Project Demo
 # Video
