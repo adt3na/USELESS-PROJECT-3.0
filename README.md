@@ -1,118 +1,104 @@
-# Vadakkunokki.ai (വടക്കുനോക്കി.ai)
+<img width="1280" height="640" alt="git (1)" src="https://github.com/user-attachments/assets/8920b256-2ba8-4988-b824-5351134eb4bd" />
 
-> **"THE AI KNOWS THE ANSWER. THE AI CHOOSES WHETHER YOU DESERVE IT."**
 
-Vadakkunokki.ai is an interactive retro-gaming AI web application built with **FastAPI** (Python) and **React + TypeScript + Vite**. Powered by **Google Gemini**, the AI behaves like a mischievous, unpredictable, mood-driven retro-game character that intentionally ragebaits, refuses, challenges, annoys, or entertains the user before eventually providing the correct answer.
 
----
+# [Project Name] 🎯
 
-## 🎮 Core Gameplay & Mechanics
 
-1. **Ask Any Question**: The user enters a question (e.g. *"What is the largest planet?"*).
-2. **Authoritative Decision Engine**: Vadakkunokki evaluates the question and its mood across 8 behaviors:
-   - `START_GAME`: Triggers one of 4 retro mini-games.
-   - `RAGEBAIT`: Sassy, hilarious taunts refusing to do your homework.
-   - `ASK_BACK`: Questions the user's secret motives.
-   - `REFUSE`: Playful, witty refusal.
-   - `DELETE_INPUT`: In angry mode, progressively erases user input with backspacing sounds!
-   - `SILENT`: Stares blankly without an answer.
-   - `ANSWER`: Direct factual response when in a rare generous mood.
-3. **Original Question Preservation (FR-007)**: When a challenge is triggered, the original question is permanently preserved.
-4. **Answer Unlocking (FR-013, FR-030)**: Winning the mini-game unlocks the answer. Vadakkunokki delivers a reluctant concession wrapped around Google Gemini's verified factual explanation.
+## Basic Details
+### Team Name: [Name]
 
----
 
-## 🕹️ The 4 Modular Mini-Games
+### Team Members
+- Team Lead: [Name] - [College]
+- Member 2: [Name] - [College]
+- Member 3: [Name] - [College]
 
-- **Tic-Tac-Toe**: Interactive 3×3 grid with server-side AI moves and win verification.
-- **Bubble Shooter**: Canvas arcade shooter with aiming cannon, colored bubbles, timer, and score target.
-- **Speed Math**: Rapid-fire arithmetic equations with server-validated answers and timer.
-- **Science Quiz**: 3-question scientific gauntlet requiring a perfect 3/3 score.
+### Project Description
+[2-3 lines about what your project does]
 
----
+### The Problem (that doesn't exist)
+[What ridiculous problem are you solving?]
 
-## 🏗️ Project Architecture
+### The Solution (that nobody asked for)
+[How are you solving it? Keep it fun!]
 
-```
-uselessproject/
-├── backend/
-│   ├── config.py             # Centralized Pydantic settings
-│   ├── main.py               # FastAPI application entry point
-│   ├── requirements.txt      # Python dependencies
-│   ├── games/                # Modular mini-game logic
-│   │   ├── tic_tac_toe.py
-│   │   ├── bubble_shooter.py
-│   │   ├── speed_math.py
-│   │   └── science_quiz.py
-│   ├── models/               # Pydantic schemas (chat, games, session)
-│   ├── routes/               # API endpoints (/chat, /game, /challenge, /session)
-│   ├── services/             # Gemini, Mood, Personality, and Game services
-│   ├── utils/                # Redacted logging & helper functions
-│   └── tests/                # Comprehensive Pytest suite
-│
-├── frontend/
-│   ├── src/
-│   │   ├── components/       # VadakkunokkiAvatar, LandingView, ChatView, ExitModal
-│   │   ├── components/games/ # GameModal, TicTacToe, BubbleShooter, SpeedMath, ScienceQuiz, VictoryModal
-│   │   ├── services/         # API client & Web Audio 8-bit sound synthesizer
-│   │   ├── App.tsx           # App root & state coordinator
-│   │   └── index.css         # Custom Vanilla CSS retro-gaming design system
-│   ├── package.json
-│   └── vite.config.ts
-│
-├── run.bat                   # 1-click startup script for Windows
-└── README.md
-```
+## Technical Details
+### Technologies/Components Used
+For Software:
+- [Languages used]
+- [Frameworks used]
+- [Libraries used]
+- [Tools used]
 
----
+For Hardware:
+- [List main components]
+- [List specifications]
+- [List tools required]
 
-## 🚀 Quick Start Guide
+### Implementation
+For Software:
+# Installation
+[commands]
 
-### 1. Configure Environment
-Open `backend/.env` and add your Google Gemini API key:
-```env
-GEMINI_API_KEY=your_gemini_api_key_here
-GEMINI_MODEL=gemini-2.5-flash
-PORT=8000
-DEBUG=True
-```
-*(Note: If no key is configured, high quality curated factual fallbacks automatically keep the game fully functional!)*
+# Run
+[commands]
 
-### 2. Run the App
+### Project Documentation
+For Software:
 
-#### Windows (One-Click)
-Double click `run.bat` or run in terminal:
-```cmd
-run.bat
-```
+# Screenshots (Add at least 3)
+![Screenshot1](Add screenshot 1 here with proper name)
+*Add caption explaining what this shows*
 
-#### Manual Run
-**Terminal 1 (Backend):**
-```bash
-.\.venv\Scripts\activate
-python -m uvicorn backend.main:app --reload --port 8000
-```
+![Screenshot2](Add screenshot 2 here with proper name)
+*Add caption explaining what this shows*
 
-**Terminal 2 (Frontend):**
-```bash
-cd frontend
-npm run dev
-```
+![Screenshot3](Add screenshot 3 here with proper name)
+*Add caption explaining what this shows*
 
-Visit **http://localhost:5173** in your browser!  
-FastAPI Swagger Docs available at **http://127.0.0.1:8000/docs**.
+# Diagrams
+![Workflow](Add your workflow/architecture diagram here)
+*Add caption explaining your workflow*
+
+For Hardware:
+
+# Schematic & Circuit
+![Circuit](Add your circuit diagram here)
+*Add caption explaining connections*
+
+![Schematic](Add your schematic diagram here)
+*Add caption explaining the schematic*
+
+# Build Photos
+![Components](Add photo of your components here)
+*List out all components shown*
+
+![Build](Add photos of build process here)
+*Explain the build steps*
+
+![Final](Add photo of final product here)
+*Explain the final build*
+
+### Project Demo
+# Video
+[Add your demo video link here]
+*Explain what the video demonstrates*
+
+# Additional Demos
+[Add any extra demo materials/links]
+
+## Team Contributions
+- [Name 1]: [Specific contributions]
+- [Name 2]: [Specific contributions]
+- [Name 3]: [Specific contributions]
 
 ---
+Made with ❤️ at TinkerHub Useless Projects 
 
-## 🧪 Testing
+![Static Badge](https://img.shields.io/badge/TinkerHub-24?color=%23000000&link=https%3A%2F%2Fwww.tinkerhub.org%2F)
+![Static Badge](https://img.shields.io/badge/UselessProjects--26-26?link=https%3A%2F%2Ftinkerhub.org%2Fevents%2F1M8ORET9A1%2Fuseless-projects-3.0)
 
-Run backend tests:
-```bash
-.\.venv\Scripts\python -m pytest backend\tests -v
-```
 
-Build frontend production bundle:
-```bash
-cd frontend
-npm run build
-```
+
+
