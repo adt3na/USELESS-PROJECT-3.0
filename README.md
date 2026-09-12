@@ -54,14 +54,51 @@ For Software:
 **
 
 # Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
+![       USER
+                     │
+                     ▼
+                ASK QUESTION
+                     │
+                     ▼
+             ┌───────────────┐
+             │ Python Engine │
+             └───────┬───────┘
+                     │
+               Choose behavior
+                     │
+       ┌─────────────┼──────────────┐
+       ▼             ▼              ▼
+    ANSWER       RAGEBAIT         GAME
+       │             │              │
+       │             │       Choose game
+       │             │              │
+       │             │     ┌────────┼────────┐
+       │             │     ▼        ▼        ▼
+       │             │   TIC     BUBBLE    MATH
+       │             │    TAC     SHOOT
+       │             │     │
+       │             │     └───────┬────────┘
+       │             │             │
+       │             │          GAME END
+       │             │             │
+       │             │       ┌─────┴─────┐
+       │             │       ▼           ▼
+       │             │     WIN          LOSE
+       │             │       │           │
+       └─────────────┴───────┘           │
+                     │                   │
+                     ▼                   ▼
+               CALL GEMINI          Ragebait again
+                     │
+                     ▼
+              ACTUAL ANSWER]
+**
 
 
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
+- [Anu Ann Biju]: [developing, ui/ux design, frontend]
+- [Adheena Sajeev Nair]: [deploying, backend]
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
