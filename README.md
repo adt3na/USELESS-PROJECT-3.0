@@ -15,7 +15,7 @@
 
 
 ### Project Description
-[How's does it sound if that arrogant topper in your class became an LLM. Apart from other LLMs like Chat GPT, VADAKKUNOKI AI, knows the answer, but he wants you to earn the answer. Too Smart?? it will roast you, or try playing a game, earn the answer.]
+[How does it sound if that arrogant topper in your class became an LLM. Apart from other LLMs like Chat GPT, VADAKKUNOKI AI, knows the answer, but he wants you to earn the answer. Too Smart?? it will roast you, or try playing a game, earn the answer.]
 
 ### The Problem (that doesn't exist)
 [Deliberating prompting in an LLM doesn't feel thrilling, So why not an LLM that challenges you for an answer]
