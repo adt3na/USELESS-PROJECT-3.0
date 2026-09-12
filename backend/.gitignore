@@ -1,0 +1,33 @@
+# Backend Environment Variables & API Keys (DO NOT COMMIT)
+.env
+.env.*
+*.env
+*.env.*
+*.backup
+*.bak
+!.env.example
+!*.env.example
+
+# Python Bytecode & Cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Python Virtual Environments
+.venv/
+venv/
+env/
+ENV/
+
+# Distribution & Packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Testing & Logs
+.pytest_cache/
+.coverage
+htmlcov/
+*.log
