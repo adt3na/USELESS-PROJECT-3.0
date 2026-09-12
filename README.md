@@ -42,14 +42,16 @@ For Software:
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+![<img width="1856" height="986" alt="Home interface" src="https://github.com/user-attachments/assets/f675fabe-00c5-481e-937d-5a3afd8dfa26" />]
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
+![<img width="1480" height="953" alt="Game interface 2" src="https://github.com/user-attachments/assets/c286d06d-06fd-41af-89b7-29523a438633" />]
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+![<img width="1906" height="973" alt="Game interface 1" src="https://github.com/user-attachments/assets/51e2cea6-d3b7-4464-802d-cfec74180f5e" />]
+
+[<img width="1906" height="978" alt="Actual Response" src="https://github.com/user-attachments/assets/36f679dc-7a4a-4d3f-b1e1-eb2f9912b7c5" />]
+
+
+**
 
 # Diagrams
 ![Workflow](Add your workflow/architecture diagram here)
@@ -60,7 +62,6 @@ For Software:
 ## Team Contributions
 - [Name 1]: [Specific contributions]
 - [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
