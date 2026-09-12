@@ -2,44 +2,38 @@
 
 
 
-# [Project Name] 🎯
+# [VADAKKUNOKKI AI] 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: [Pixel Rift]
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: [Anu Ann Biju] - [Toc H Institute of science and Technology]
+- Member 2: [Adheena Sajeev Nair] - [Toc H Institute of science and Technology]
+
 
 ### Project Description
-[2-3 lines about what your project does]
+[How's does it sound if that arrogant topper in your class became an LLM. Apart from other LLMs like Chat GPT, VADAKKUNOKI AI, knows the answer, but he wants you to earn the answer. Too Smart?? it will roast you, or try playing a game, earn the answer.]
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+[Deliberating prompting in an LLM doesn't feel thrilling, So why not an LLM that challenges you for an answer]
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
-
+[Deliberating prompting in an LLM doesn't feel thrilling, We build an LLM that Rage baits you or give you a task in order to earn your answer]
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
-
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
+- [Python 3,J.SON, React 19, TypeScript, vite 8, google fonts, lucide react, web audio API]
+- [Fast API, React 19]
+- [lucide react, canvas -confetti, type/canvas -confetti,web audio API, google-genai,pydantic, pydantic -settings, python dotenv, uvicorn[standard], pytest]
+- [vite, node.js & npm, TYpeScript,oxlint, .venv, pip,FAST API swagger/open api ]
 
 ### Implementation
 For Software:
 # Installation
-[commands]
+[]
 
 # Run
 [commands]
